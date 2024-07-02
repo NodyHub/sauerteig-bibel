@@ -2,96 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://sauerteig-bibel.de/docs/example/table-of-contents/with-toc/</loc>
+    <loc>http://localhost:1313/docs/example/table-of-contents/with-toc/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/example/table-of-contents/without-toc/</loc>
+    <loc>http://localhost:1313/docs/example/table-of-contents/without-toc/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/posts/creating-a-new-theme/</loc>
+    <loc>http://localhost:1313/posts/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/posts/migrate-from-jekyll/</loc>
+    <loc>http://localhost:1313/posts/migrate-from-jekyll/</loc>
     <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/example/table-of-contents/</loc>
+    <loc>http://localhost:1313/docs/example/table-of-contents/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/backen/roggen/einsteiger/</loc>
+    <loc>http://localhost:1313/docs/backen/roggen/einsteiger/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/backen/roggen/</loc>
+    <loc>http://localhost:1313/docs/backen/roggen/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/starter/</loc>
+    <loc>http://localhost:1313/docs/starter/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/backen/</loc>
+    <loc>http://localhost:1313/docs/backen/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/backen/weizen/</loc>
+    <loc>http://localhost:1313/docs/backen/weizen/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/hilfsmittel/</loc>
+    <loc>http://localhost:1313/docs/hilfsmittel/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/backen/starter/</loc>
+    <loc>http://localhost:1313/docs/backen/starter/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/wissenswertes/</loc>
+    <loc>http://localhost:1313/docs/wissenswertes/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/extern/</loc>
+    <loc>http://localhost:1313/docs/extern/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/impressum/</loc>
+    <loc>http://localhost:1313/docs/impressum/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/example/</loc>
+    <loc>http://localhost:1313/docs/example/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/posts/</loc>
+    <loc>http://localhost:1313/posts/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/</loc>
+    <loc>http://localhost:1313/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/posts/goisforlovers/</loc>
+    <loc>http://localhost:1313/posts/goisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/categories/</loc>
+    <loc>http://localhost:1313/categories/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/tags/development/</loc>
+    <loc>http://localhost:1313/tags/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/categories/development/</loc>
+    <loc>http://localhost:1313/categories/development/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/posts/hugoisforlovers/</loc>
+    <loc>http://localhost:1313/posts/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/tags/go/</loc>
+    <loc>http://localhost:1313/tags/go/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/tags/golang/</loc>
+    <loc>http://localhost:1313/tags/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/categories/golang/</loc>
+    <loc>http://localhost:1313/categories/golang/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/tags/hugo/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/tags/</loc>
+    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/tags/templates/</loc>
+    <loc>http://localhost:1313/tags/templates/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/tags/themes/</loc>
+    <loc>http://localhost:1313/tags/themes/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/example/hidden/</loc>
+    <loc>http://localhost:1313/docs/example/hidden/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/shortcodes/</loc>
+    <loc>http://localhost:1313/docs/shortcodes/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/shortcodes/hints/</loc>
+    <loc>http://localhost:1313/docs/shortcodes/hints/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/shortcodes/mermaid/</loc>
+    <loc>http://localhost:1313/docs/shortcodes/mermaid/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/shortcodes/section/</loc>
+    <loc>http://localhost:1313/docs/shortcodes/section/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/shortcodes/section/first-page/</loc>
+    <loc>http://localhost:1313/docs/shortcodes/section/first-page/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/shortcodes/section/second-page/</loc>
+    <loc>http://localhost:1313/docs/shortcodes/section/second-page/</loc>
   </url><url>
-    <loc>https://sauerteig-bibel.de/docs/</loc>
+    <loc>http://localhost:1313/docs/</loc>
   </url>
 </urlset>

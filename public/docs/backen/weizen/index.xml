@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Weizen Brote on Sauerteig Bibel</title>
-    <link>https://sauerteig-bibel.de/docs/backen/weizen/</link>
+    <link>http://localhost:1313/docs/backen/weizen/</link>
     <description>Recent content in Weizen Brote on Sauerteig Bibel</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <atom:link href="https://sauerteig-bibel.de/docs/backen/weizen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/docs/backen/weizen/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
