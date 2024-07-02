@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Docs on Sauerteig Bibel</title>
+    <link>http://localhost:1313/docs/</link>
+    <description>Recent content in Docs on Sauerteig Bibel</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <atom:link href="http://localhost:1313/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sauerteig Starter</title>
+      <link>http://localhost:1313/docs/starter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/starter/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hilfsmittel &amp; Utensilien</title>
+      <link>http://localhost:1313/docs/hilfsmittel/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/hilfsmittel/</guid>
+      <description>Hilfsmittel &amp;amp; Utensilien # Gärkorb # Mittlerweile habe ich einen Gärkorb den ich verwende Alternativ einfach ein Küchensieb verwenden Küchenhandtuch reinlegen Bemehlen Teig rein Kneten # Ich verwende zum Kneten eine Küchenmaschine mit Knethaken Zum Kneten kannst auch die Hände verwenden Empfehlung: Eine Hand am Teig, eine an der Schüssel Leichter die Schüssel festhalten Leichter die Hand sauber zu machen&#xA;Pizzastein # Ich lege meinen Brotteig beim Backen auf einen Pizzastein Ich habe den Eindruck, dass das Brot dann besser die Temperatur annimmt und besser aufgeht</description>
+    </item>
+    <item>
+      <title>Wissenswertes</title>
+      <link>http://localhost:1313/docs/wissenswertes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/wissenswertes/</guid>
+      <description>Wissenswertes # Teig/Hände mit Öl einreiben # Der Teig ist oftmals super schwierig zu handhaben: Weil klebrig! Dann einfach die Hände mit Öl einreiben und den Teig bestreichen Et voila, Teig klebt nicht mehr 😀&#xA;Was ist Sauerteig? # muss ich nochmal schreiben&#xA;Warum kneten? # Mehl enthält Gluten Gluten ist das Eiweiß im Getreide, bzw die Eiweißketten Dies Eiweißketten verbinden sich durchs Kneten Je mehr geknetet wird, desto mehr Ketten verbinden sich.</description>
+    </item>
+    <item>
+      <title>Externe Links</title>
+      <link>http://localhost:1313/docs/extern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/extern/</guid>
+      <description> Externe Links # Was gutes Brot ist und wie es gut bleibt (Ganze Folge) | Quarks Plötzblog Zum Nachkochen: Die besten Rezepte | BR Fernsehen Sauerteigbrötchen | Backen macht glücklich Grundrezept für ein Roggenbrot mit Sauerteig Sourdough Crackers Recipe | King Arthur Baking Buttery Sourdough Biscuits Recipe | King Arthur Baking Everything Bagel mit Sauerteig · Eat this! </description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>http://localhost:1313/docs/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/docs/impressum/</guid>
+      <description>Impressum # Foo # Bar &amp;hellip;</description>
+    </item>
+  </channel>
+</rss>

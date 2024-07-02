@@ -1,0 +1,4 @@
+baseURL = 'https://sauerteig-bibel.de/'
+languageCode = 'de-DE'
+title = 'Sauerteig Bibel'
+theme = 'hugo-book'
