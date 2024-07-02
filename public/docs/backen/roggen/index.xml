@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Roggen Brote on Sauerteig Bibel</title>
-    <link>http://localhost:1313/docs/backen/roggen/</link>
+    <link>https://sauerteig-bibel.de/docs/backen/roggen/</link>
     <description>Recent content in Roggen Brote on Sauerteig Bibel</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <atom:link href="http://localhost:1313/docs/backen/roggen/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://sauerteig-bibel.de/docs/backen/roggen/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Einsteiger</title>
-      <link>http://localhost:1313/docs/backen/roggen/einsteiger/</link>
+      <link>https://sauerteig-bibel.de/docs/backen/roggen/einsteiger/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/backen/roggen/einsteiger/</guid>
+      <guid>https://sauerteig-bibel.de/docs/backen/roggen/einsteiger/</guid>
       <description>Einsteiger Roggenvollkornbrot # Ursprünglich kommt das Rezept von: Papa backt: Das knusprigste Roggensauerteigbrot der Welt ;-) Lecker und so bekömmlich!&#xA;Zutaten # 400g Bio Roggen Vollkornmehl 300g Bio Weizenmehl 1050 1 EL Salz 450 ml lauwarmes Wasser 60-80g Sauerteigansatzes Zubereitung # Alles mischen 4-5m kneten lassen 3h bei Zimmertemperatur gehen lassen 12h im Kühlschrank 1h wieder bei Zimmertemperatur 1h im Gärkörbchen 15m bei 240 Grad, Umluft 45m bei 200 Grad, Ober/Unterhitze Wichtig</description>
     </item>
   </channel>
