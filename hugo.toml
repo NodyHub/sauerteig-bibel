@@ -9,7 +9,7 @@ enableGitInfo = true
 [params]
   BookTheme = 'auto'
   BookToC = true
-  # BookLogo = 'logo.png'
+  BookLogo = 'logo.png'
   BookRepo = 'https://github.com/NodyHub/sauerteig-bibel'
   BookEditPath = 'edit/main'
   BookDateFormat = 'Jan 2, 2006'
