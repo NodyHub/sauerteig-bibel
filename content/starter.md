@@ -34,7 +34,11 @@ Der Starter ist einsatzbereit sobald sich eindeutig Bläßchen im Teig bilden, d
 * Im Kühlschrank lagern
 * Kann gut 2 Wochen ohne Pflege gelagert werden
 * Wenn nicht verwendet, alle 2 Wochen mal auffrischen (siehe Auffrischen)
-* Zur Not einfrieren (habe ich gehört, aber noch nicht getestet)
+
+## Haltbar machhen
+
+* Einfrieren soll wohl gehen, habe ich noch nie gemacht.
+* Trocknen: Früher wurde der Überrest vom Backen in einen sauberen Strupf gesteckt, der dann auf dem Dachboden von der Decke baumelte und dort trocknete. Beim Nächsten Verwenden wurde dann der Starter mit Wassfer vermengt und um frisches Mehl ergänzt und somit wieder zum Leben erweckt. Habe ich aber auch noch nicht probiert.
 
 ## Auffrischen
 
