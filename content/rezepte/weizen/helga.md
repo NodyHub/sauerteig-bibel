@@ -1,9 +1,9 @@
 ---
 weight: 20
-title: Helge
+title: Helga
 ---
 
-# Helge die Jazzkanone
+# Helga
 
 Ursprünglich kommt das Rezept von: [Helles Sauerteigbrot aus weltbestem Weizen](https://kochenmachtgluecklich.de/helles-sauerteigbrot-aus-weltbestem-weizen/)
 

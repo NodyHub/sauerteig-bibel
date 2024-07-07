@@ -3,7 +3,7 @@ weight: 10
 title: Ronja 
 ---
 
-# Ronja die Räubertochter (Top für Einsteiger)
+# Ronja (Top für Einsteiger)
 
 Ursprünglich kommt das Rezept von: [Papa backt: Das knusprigste Roggensauerteigbrot der Welt ;-) Lecker und so bekömmlich!](https://www.youtube.com/watch?v=GNr1-mEOjPo&ab_channel=Papakocht)
 

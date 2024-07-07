@@ -3,8 +3,7 @@ weight: 10
 title: Einstein 
 ---
 
-# Einstein der Blitzmerker
-
+# Einstein
 
 Ursprünglich kommt das Rezept von: [Einfaches Weizen-Sauerteig-Brot ohne Hefe](https://www.backenmachtgluecklich.de/rezepte/weizen-sauerteig-brot-ohne-hefe.html)
 
