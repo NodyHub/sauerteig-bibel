@@ -5,6 +5,9 @@ title: Brötchen
 
 # Brötchen
 
+Ursprünglich kommt das Rezept von: [Einfache Sauerteigbrötchen ohne Hefe
+](https://www.backenmachtgluecklich.de/rezepte/einfache-sauerteigbroetchen-ohne-hefe.html).
+
 ## Zutaten
 
 * 120g Sauerteig
