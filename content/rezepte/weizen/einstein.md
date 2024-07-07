@@ -1,9 +1,9 @@
 ---
 weight: 10
-title: Einhorn 
+title: Einstein 
 ---
 
-# Einhorn - Das einfache Weizen-Sauerteig-Brot
+# Einstein der Blitzmerker
 
 
 Ursprünglich kommt das Rezept von: [Einfaches Weizen-Sauerteig-Brot ohne Hefe](https://www.backenmachtgluecklich.de/rezepte/weizen-sauerteig-brot-ohne-hefe.html)

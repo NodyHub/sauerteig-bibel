@@ -1,9 +1,9 @@
 ---
 weight: 20
-title: Helles Weizen 
+title: Helge
 ---
 
-# Helles Weizen Sauerteigbrot
+# Helge die Jazzkanone
 
 Ursprünglich kommt das Rezept von: [Helles Sauerteigbrot aus weltbestem Weizen](https://kochenmachtgluecklich.de/helles-sauerteigbrot-aus-weltbestem-weizen/)
 
@@ -22,7 +22,7 @@ Ursprünglich kommt das Rezept von: [Helles Sauerteigbrot aus weltbestem Weizen]
 1. Sauerteig mit Wasser gründlich verquirrlen
 2. Mehl ergänzen und kneten
 3. Mit feuchten Tuch abdecken
-4. 30m wartem
+4. 30m warten
 5. Dehnen und falten
 6. 8h-10h ruhen lassen (Teig verdoppelt sich in der Zeit)
 7. Vorsichtig in Form bringen und ab ins Gärkörbchen

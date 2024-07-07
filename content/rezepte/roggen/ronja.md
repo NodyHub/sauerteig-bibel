@@ -1,9 +1,9 @@
 ---
 weight: 10
-title: Roggi 
+title: Ronja 
 ---
 
-# Roggi - Das Einsteiger Roggenvollkornbrot
+# Ronja die Räubertochter - Das Einsteiger Roggenvollkornbrot
 
 Ursprünglich kommt das Rezept von: [Papa backt: Das knusprigste Roggensauerteigbrot der Welt ;-) Lecker und so bekömmlich!](https://www.youtube.com/watch?v=GNr1-mEOjPo&ab_channel=Papakocht)
 
@@ -25,4 +25,3 @@ Ursprünglich kommt das Rezept von: [Papa backt: Das knusprigste Roggensauerteig
 6. 1h im Gärkörbchen
 7. 15m bei 240 Grad, Umluft
 8. 45m bei 200 Grad, Ober/Unterhitze
-
