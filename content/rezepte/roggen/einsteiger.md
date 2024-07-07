@@ -25,9 +25,9 @@ Ursprünglich kommt das Rezept von: [Papa backt: Das knusprigste Roggensauerteig
 6. **1h** im Gärkörbchen
 7. **15m** bei 240 Grad, Umluft
 8. **45m** bei 200 Grad, Ober/Unterhitze
-
+<!-- 
 {{< hint info >}}
 **Wichtig**  
 Topf, Schale oder Kasserolle mit Wasser unten in den Ofen
 {{< /hint >}}
-
+ -->
