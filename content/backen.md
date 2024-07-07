@@ -27,8 +27,8 @@ Zu Beginn des Backvorgangs wird mit Deckelgepacken. 15m vor Ende wird der Deckel
 
 Zusätzlich ist es von Vorteil den Backofen zu bewässern/befeuchten, sodass Wasserdampf im Backofen ist. Dadurch wird die Kruste besser. Um Wasserdampf im Ofen zu erzeugen brauchst du entweder einen Ofen mit Dampffunktion oder du musst anders Wasserdampf im Ofen erzeugen.
 
-Ich habe gute Dampf entwicklung erreicht indem ich ein halbes Glas Wasser unten in den heißen ofen reingekippt habe. Das ist dann direkt verdampft. Sollte man aber besser nicht machen, da dann der Ofen kaputt geht. (Weil sich dann das Metall ruckartig zusammenzieht).
+Ich habe gute Dampf entwicklung erreicht indem ich ein halbes Glas Wasser unten in den heißen ofen reingekippt habe. Das ist dann direkt verdampft. Sollte man aber besser nicht machen, da dann der Ofen kaputt geht. (Weil sich dann das Metall ruckartig zusammenzieht). Also vielleicht besser nicht so machen. 😄
 
-Sonst kannste auch eine Keramikschal;e mit wasser unten reinstellen. Die erdampft dann über den Backvorgang. Das ist auch ok. Alternativ mit einer sauberen Sprühflasche Wasser spritzer in den Ofen rein
+Sonst kannste auch eine Keramikschale mit Wasser unten reinstellen. Die verdampft dann über den Backvorgang. Wenn du die Schale vorab erhitzt und erst dann das Wasser rein kippst wenn das Brot in den Ofen gehe, kannst du pech haben und die Schale springt. Schade, nun haben wir eine kaputte Schale. 😅 Also einfach mit Wsasser zusammen erwärmen und dann klappt das schon. Alternativ mit einer sauberen Sprühflasche Wasser spritzer in den Ofen rein
 
-Kurz vor Ende des Backvorganges sollte der Wassrtdampf aus dem Ofen gelassen werden. 
+Kurz vor Ende des Backvorganges sollte der Wassrtdampf aus dem Ofen gelassen werden.
