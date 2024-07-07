@@ -36,3 +36,7 @@ Habe ich aber noch nicht getestet
 
 Soll wohl gut sein um den Teig zu verteilen/abkratzen
 Ich verwende einen Pfannenwender
+
+## Wasserschale
+
+Wenn der Backofen eher etwas älter ist (so wie meiner), ist es sinnvoll eine Wasserschale unten in den Backofen zu stellen, damit Wasserdampf entseht. Durch den Wasserdampf bildet sich ein dickerer krumen.
