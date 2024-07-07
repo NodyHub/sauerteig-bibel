@@ -4,11 +4,11 @@ title = 'Sauerteig Bibel'
 theme = 'hugo-book'
 googleAnalytics = "G-V6WWFW2FNX"
 disablePathToLower = false
-enableGitInfo = true
+enableGitInfo = false
 
 [params]
   BookTheme = 'auto'
-  BookToC = true
+  BookToC = false
   BookSection = '/'
   BookLogo = 'logo.png'
   BookRepo = 'https://github.com/NodyHub/sauerteig-bibel'
