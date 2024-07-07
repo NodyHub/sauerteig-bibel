@@ -27,6 +27,14 @@ Leichter die Hand sauber zu machen
 Ich lege meinen Brotteig beim Backen auf einen Pizzastein
 Ich habe den Eindruck, dass das Brot dann besser die Temperatur annimmt und besser aufgeht
 
+## Pizzaheber
+
+Ich schiebe mein Brot mit einem Pizzaschieber in den Backofen, bzw hole das Brot anschließend damit auch raus.
+
+## Rasierklinge
+
+Um dem Brot eine ganz individuelle Note zu verleihen kannst du am Geschicktesten mit einer Rasierklinge die Muster in den Brotteig ziehen bbevor er gebacken wird. Alternativ geht natürlich auch ein schwarfes Messer. 
+
 ## Gusseiserner Topf
 
 Im Dutch Oven/Gusseisernen Topf backen soll super klappen
