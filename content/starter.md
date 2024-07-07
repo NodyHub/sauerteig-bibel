@@ -25,7 +25,7 @@ Schritte:
 Das Glas bei Raumtemperatur lagern und täglich wiederholen.
 Kleiner Tipp: Beim Vermengen immer ert wasser und dann Mehl einrühren, das lässt sich einfacher rühren.
 
-Prinzipiell reicht das, aber um schneller freie Enzyme in den Teig zu bekommen kann man zusätzlich 100g ungespritzten Bioapfel mit Schale reiben und in den Teig einrühren. Auf diesem Weg wird der Sauerteig scnell sehr aktiv.
+Prinzipiell reicht das, aber um schneller freie Enzyme in den Teig zu bekommen kann man zusätzlich 100g ungespritzten Bioapfel mit Schale reiben und in den Teig einrühren. Auf diesem Weg wird der Sauerteig schnell sehr aktiv. (Quelle: [Roggensauerteig aus Apfelansatz](https://www.zimtkringel.org/2017/10/02/roggensauerteig-aus-apfelansatz/))
 
 Der Starter ist einsatzbereit sobald sich eindeutig Bläßchen im Teig bilden, die man durch dier Glaswand erkennen kann. Außerdem ist beim Durchrühren mit dem Löffel der Starter eine fast schaumige Masse.
 
