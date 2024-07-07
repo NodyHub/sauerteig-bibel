@@ -5,6 +5,8 @@ weight: 10
 
 # Sauerteig Starter
 
+Der Starter oder auch bekannt als Anstellgut ist quasi die Grundlage für jedes Sauerteigbrot. Einmal einen Starter hergestellt, kann man diesen für immer verwenden. Es heißt das manche Bäckereien ihren Starter seitmehr als 100 Jahren haben. Ergo, ein gut gepflegter Starter kann uns alle überleben. Vorausgesetzt er wird gut gepflegt.
+
 ## Starter staren
 
 Voraussetzung:
@@ -31,7 +33,9 @@ Der Starter ist einsatzbereit sobald sich eindeutig Bläßchen im Teig bilden, d
 
 ## Lagerung
 
-* Im Kühlschrank lagern
+* Der Teig befindet sich bei mir ein einem Bügelglas ohne Gummidichtung
+* Damit durch den Undichten Schlitz nichts durchkrabbelt lege ich noch ein gefaltetes Küchenpapier ein. 
+* Wenn ich den Starter nicht verwende lagere ich ihn im Kühlschrank
 * Kann gut 2 Wochen ohne Pflege gelagert werden
 * Wenn nicht verwendet, alle 2 Wochen mal auffrischen (siehe Auffrischen)
 
@@ -50,8 +54,9 @@ Der Starter ist einsatzbereit sobald sich eindeutig Bläßchen im Teig bilden, d
   * Ich versuche meinen Sauerteig Getreidesortenrein zu halten, ergo Weizensauerteig mit Weizenvollkornmehl, Roggensauerteig mit Roggenvollkornmehl. K.A. wie wichtig das ist, kann man aber sicher auch mischen. _Edit:_ Der Teig sollte im besten fall immer mit dem gleichen Mehl gefüttert werden.
 * Nach Fütterung bei Raumtemperatur ein paar Stunden lagern (nicht in der Sonne, weil Sonne Bakterien töte, bzw. UV Licht)
 * Nach Fütterung ist der Teig einsatzbereit
-* Um den Teig richtig in Schwung zu bekommen, kann es sinnvoll sein, alle 12 Stunden zu füttern. 
+* Um den Teig richtig in Schwung zu bekommen, kann es sinnvoll sein, alle 12 Stunden zu füttern.
 * Der Weizensauerteig ist bei Fütterung aktiver, aber die Aktivität lässt auch schneller nach
+* Es kann sein das beim Füttern das Glas zu voll wird und der Teig zu aktiv wird. Das hat dann zur Folge, dass der Teig aus dem Glas herausläuft.
 
 {{< hint info >}}
 **Was verrückt ist**  
