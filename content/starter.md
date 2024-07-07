@@ -41,16 +41,15 @@ Der Starter ist einsatzbereit sobald sich eindeutig Bläßchen im Teig bilden, d
 * Starter aus Kühlschrank nehmen und auf Raumtemperatur kommen lassen
 * 50g warmes Wasser einrühren
 * 50g Vollkornmehl einrühren 
-    * Vollkorn, weil da die Schale mit verarbeitet wurde
-    * Auf der Schale sind die Enzymen die man haben möchte
-    * Ich versuche meinen Sauerteig Getreidesortenrein zu halten, ergo Weizensauerteig mit Weizenvollkornmehl, Roggensauerteig mit Roggenvollkornmehl. K.A. wie wichtig das ist, kann man aber sicher auch mischen. _Edit:_ Der Teig sollte im besten fall immer mit dem gleichen Mehl gefüttert werden.
+  * Vollkorn, weil da die Schale mit verarbeitet wurde
+  * Auf der Schale sind die Enzymen die man haben möchte
+  * Ich versuche meinen Sauerteig Getreidesortenrein zu halten, ergo Weizensauerteig mit Weizenvollkornmehl, Roggensauerteig mit Roggenvollkornmehl. K.A. wie wichtig das ist, kann man aber sicher auch mischen. _Edit:_ Der Teig sollte im besten fall immer mit dem gleichen Mehl gefüttert werden.
 * Nach Fütterung bei Raumtemperatur ein paar Stunden lagern (nicht in der Sonne, weil Sonne Bakterien töte, bzw. UV Licht)
 * Nach Fütterung ist der Teig einsatzbereit
 * Um den Teig richtig in Schwung zu bekommen, kann es sinnvoll sein, alle 12 Stunden zu füttern. 
 * Der Weizensauerteig ist bei Fütterung aktiver, aber die Aktivität lässt auch schneller nach
 
-
 {{< hint info >}}
 **Was verrückt ist**  
-Der Weizensauertag bekommt bei hoher Aktivität Sprudelbläschen – ähnlich zu kohlensäurehaltige Getränke beim ins Glas giessen. 
+Der Weizensauertag bekommt bei hoher Aktivität Sprudelbläschen – ähnlich zu kohlensäurehaltige Getränke beim ins Glas giessen.
 {{< /hint >}}

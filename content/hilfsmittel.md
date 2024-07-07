@@ -10,9 +10,9 @@ weight: 30
 
 * Mittlerweile habe ich einen Gärkorb den ich verwende
 * Alternativ einfach ein Küchensieb verwenden
-    * Küchenhandtuch reinlegen
-    * Bemehlen
-    * Teig rein
+  * Küchenhandtuch reinlegen
+  * Bemehlen
+  * Teig rein
 
 ## Kneten
 
