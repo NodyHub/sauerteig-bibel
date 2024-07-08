@@ -5,7 +5,7 @@ title: Crumpets
 
 # Crumpets
 
-Beigesteuert von der Wunderbaren Katrin. Herzlichen Dank! ❤️
+Beigesteuert von der Wunderbaren Käthe. Herzlichen Dank! ❤️
 
 ## Zutaten
 
