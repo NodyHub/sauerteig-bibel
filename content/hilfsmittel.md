@@ -1,10 +1,10 @@
 ---
-title: Hilfsmittel & Utensilien
+title: Hilfsmittel
 bookFlatSection: true
 weight: 30
 ---
 
-# Hilfsmittel & Utensilien
+# Hilfsmittel
 
 ## Gärkorb
 
@@ -24,8 +24,8 @@ Leichter die Hand sauber zu machen
 
 ## Pizzastein
 
-Ich lege meinen Brotteig beim Backen auf einen Pizzastein
-Ich habe den Eindruck, dass das Brot dann besser die Temperatur annimmt und besser aufgeht
+Ich lege meinen Brotteig beim Backen auf einem Pizzastein. Ich habe den Eindruck, dass das Brot dann besser die Temperatur annimmt und besser aufgeht.
+
 
 ## Pizzaheber
 
@@ -33,7 +33,7 @@ Ich schiebe mein Brot mit einem Pizzaschieber in den Backofen, bzw hole das Brot
 
 ## Rasierklinge
 
-Um dem Brot eine ganz individuelle Note zu verleihen kannst du am Geschicktesten mit einer Rasierklinge die Muster in den Brotteig ziehen bbevor er gebacken wird. Alternativ geht natürlich auch ein schwarfes Messer. 
+Um dem Brot eine ganz individuelle Note zu verleihen, kannst du am Geschicktesten mit einer Rasierklinge die Muster in den Brotteig ziehen, bevor er gebacken wird. Alternativ geht natürlich auch ein scharfes Messer.
 
 ## Gusseiserner Topf
 
@@ -47,4 +47,4 @@ Ich verwende einen Pfannenwender
 
 ## Wasserschale
 
-Wenn der Backofen eher etwas älter ist (so wie meiner), ist es sinnvoll eine Wasserschale unten in den Backofen zu stellen, damit Wasserdampf entseht. Durch den Wasserdampf bildet sich ein dickerer krumen.
+Wenn der Backofen eher etwas älter ist (so wie meiner), ist es sinnvoll, eine Wasserschale unten in den Backofen zu stellen, damit Wasserdampf entsteht. Durch den Wasserdampf bildet sich ein dickerer Krumen.
