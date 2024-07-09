@@ -24,8 +24,8 @@ Ursprünglich kommt das Rezept von: [Einfaches Weizen-Sauerteig-Brot ohne Hefe](
 ## Zubereitung
 
 1. Vorteig mischen
-2. 2h im Backofen bei eingeschalteter Lampe gehen lassen (die Lampe sorgt für den Anstieg der Temperatur im Ofen aufetwa 30°C)
-3. Haptteig Zutaten ergänzen
+2. 2h im Backofen bei eingeschalteter Lampe gehen lassen (die Lampe sorgt für den Anstieg der Temperatur im Ofen auf etwa 30°C)
+3. Hauptteig Zutaten ergänzen
 4. 10m Kneten
 5. Mit feuchten Tuch abdecken
 6. 3h warten
