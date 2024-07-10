@@ -18,10 +18,12 @@ Ursprünglich kommt das Rezept von: [Papa backt: Das knusprigste Roggensauerteig
 ## Zubereitung
 
 1. Alles mischen
-2. 4-5m kneten lassen
+2. 4-5m kneten
 3. 3h bei Zimmertemperatur gehen lassen
-4. 12h im Kühlschrank
-5. 1h wieder bei Zimmertemperatur
-6. 1h im Gärkörbchen
-7. 15m bei 240 Grad, Umluft
-8. 45m bei 200 Grad, Ober/Unterhitze
+4. [Dehnen & Falten](wissenswertes/#falten)
+5. 12h im Kühlschrank
+6. 1h wieder Zimmertemperatur annehmen lassen
+7. In Form fürs [Gärkörbchen](hilfsmittel/#gärkorb) bringen
+7. 1h im [Gärkörbchen](hilfsmittel/#gärkorb)
+8. 15m bei 240 Grad, Umluft (Infos zum Thema [Backen](backen/) beachten)
+9. 45m bei 200 Grad, Ober/Unterhitze
